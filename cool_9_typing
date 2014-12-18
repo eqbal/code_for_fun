@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "You can simulate on-screen typing just like in the movies\n So What do you think?" | pv -qL 10
